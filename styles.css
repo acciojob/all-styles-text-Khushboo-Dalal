@@ -1,11 +1,21 @@
 
 /* Your CSS Code here. */
-div{
+
+
+
+.main {
     width: 200px;
-	background-color: purple;
-	border-left-color: green;
-    border-left-width:5px;
-    padding: 10px;
-	font-size: 20px;
-	color:white;
+	background-color:rgb(128,0,128);
+	border-left:5px solid rgb(0,128,0);
+	padding: 10px;
+/*     background-color: green; */
+	
+   
+}
+.heading {
+/*     background-color: purple ; */
+    color: white;
+    font-size: 20px;
+    text-decoration: underline;
+     
 }
